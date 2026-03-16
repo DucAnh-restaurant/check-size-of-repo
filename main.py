@@ -17,9 +17,7 @@ class Input:
     def view(self):
         print(self.viewString)
 
-    
-
-
+# main code    
 username = input("Nhap username cua ban: ")
 reponame = input("Nhap repo name cua ban: ")
 
