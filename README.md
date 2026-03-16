@@ -5,8 +5,8 @@
 ### vi du
 <img width="227" height="40" alt="image" src="https://github.com/user-attachments/assets/7e906ca7-8a0d-4138-ad30-91df47226687" />
 
-green: username
-yellow: reponame
+green: username</br>
+yellow: reponame</br>
 
 # check-size-of-repo
 
