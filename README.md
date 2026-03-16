@@ -18,4 +18,5 @@
 <img width="166" height="42" alt="image" src="https://github.com/user-attachments/assets/c047d4f0-72ab-4362-a052-b935b3257cb2" />
 
 ### sau khi enter
-<img width="783" height="140" alt="image" src="https://github.com/user-attachments/assets/a5c0b6ed-a325-46bb-8a1b-58c471b69175" />
+<img width="268" height="64" alt="image" src="https://github.com/user-attachments/assets/98721770-c8b2-419e-a9f5-a4da68ab21af" />
+
