@@ -6,7 +6,7 @@
 <img width="227" height="40" alt="image" src="https://github.com/user-attachments/assets/7e906ca7-8a0d-4138-ad30-91df47226687" />
 
 <p style="color:green;">username</p>
-<p style="color:orange;">reponame</p>
+<p style="color:yellow;">reponame</p>
 
 # check-size-of-repo
 
